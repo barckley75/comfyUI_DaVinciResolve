@@ -7,6 +7,7 @@ How to use the Text-to-Speech (TTS) node and save the generated audio to DaVinci
 2. **DaVinci Resolve Studio** installed and running.
 3. Basic understanding of how to use nodes in ComfyUI.
 4. Access to OpenAI API for voice generation (optional, if not using default voices).
+5. Install OpenAI API via pip
 
 ---
 
