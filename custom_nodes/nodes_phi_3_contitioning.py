@@ -1,4 +1,4 @@
-class phy_3_conditioning:
+class phi_3_conditioning:
 
     @classmethod
     # nodes in
@@ -67,10 +67,10 @@ class phy_3_conditioning:
         
     
 NODE_CLASS_MAPPINGS = {
-"phy_3_conditioning": phy_3_conditioning
+"phi_3_conditioning": phi_3_conditioning
 }
 
 # A dictionary that contains the friendly/humanly readable titles for the nodes
 NODE_DISPLAY_NAME_MAPPINGS = {
-    "phy_3_conditioning": "phy_3_conditioning"
+    "phi_3_conditioning": "phi_3_conditioning"
 }
