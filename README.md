@@ -1,4 +1,5 @@
 ### Comprehensive Guide for Using the Text-to-Speech Node and Saving Audio to DaVinci Resolve Studio
+## These nodes doesn't work with the free version of DaVinci Resolve.
 
 How to use the Text-to-Speech (TTS) node and save the generated audio to DaVinci Resolve Studio using ComfyUI. This guide will walk you through each step, ensuring you can leverage this powerful integration effectively.
 
@@ -76,3 +77,6 @@ Here’s an example workflow to illustrate the process:
 ---
 
 Happy editing!
+
+Contributing
+
